@@ -7,7 +7,7 @@ It is built using django - backend, react - frontend and mysql - database.
 
 Steps to run application:
 
-1. Download Folder 'React_MYSQL_Django'   
+1. Download Folder 'React_Mysql_Django'   
 
 2. Install packages in requirements.txt (pip3 install -r requirements.txt)
 
